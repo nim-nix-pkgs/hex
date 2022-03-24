@@ -1,5 +1,5 @@
 {
-  description = ''A simple hex package for Nim'';
+  description = ''a simple hex package'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
