@@ -11,6 +11,7 @@
   inputs.src-hex-master.ref   = "refs/heads/master";
   inputs.src-hex-master.owner = "esbullington";
   inputs.src-hex-master.repo  = "nimrod-hex";
+  inputs.src-hex-master.dir   = "";
   inputs.src-hex-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
