@@ -1,6 +1,0 @@
-[Package]
-name          = "hex"
-version       = "0.1.0"
-author        = "Eric S. Bullington"
-description   = "a simple hex package"
-license       = "MIT"
